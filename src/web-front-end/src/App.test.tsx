@@ -4,5 +4,5 @@ import App from './App';
 
 test('renders learn react link', () => {
   render(<App />);
-  screen.getByText(/Hello World/i);
+  screen.getByText(/ToDo App/i);
 });
